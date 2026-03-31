@@ -3,7 +3,7 @@
 A modern, responsive portfolio website showcasing frontend development projects and skills.
 
 ## 🚀 Live Demo
-[View Live Site](https://sondoselsaidsayam-dev.github.io/portfolio/)
+[View Live Site](https://github.com/esondos765-so/final-project)
 
 ## 📋 Project Overview
 This is a complete portfolio website built for academic project submission, featuring:
